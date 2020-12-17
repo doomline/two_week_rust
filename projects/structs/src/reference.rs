@@ -70,4 +70,26 @@ let black = Color(0, 0, 0);
 let origin = Color(0, 0, 0);
 
 
-//
+// METHODS
+/* Methods are like functions (same as python)
+they are declared with the fn keyword and name
+they use parameters and values */
+
+
+
+/* struct Rectangle {
+    width: u32,
+    height: u32,
+   } */ 
+impl Rectangle {
+    fn area(&self) -> u32 {
+    self.width * self.height
+    }
+   }
+   fn main() {
+    let rect1 = Rectangle { width: 30, height: 50 };
+    println!(
+    "The area of the rectangle is {} square pixels.",
+    rect1.area()
+    );
+   }
