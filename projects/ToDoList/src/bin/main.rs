@@ -19,11 +19,11 @@ fn main() {
         // this code spawns a single thread every time a new request is made
         // this is inefficient becuase if you receive many requests for actions it will use a lot of resources
         // we will switch to using a threadpool 
-       //  std::thread::spawn(move || {
-         //   handle_connection(stream);
+        //  std::thread::spawn(move || {
+        //   handle_connection(stream);
 
         pool.execute(|| {
-            handle_connection(stream)
+            handle_connection(stream);
         });
     }
 }
@@ -36,7 +36,7 @@ fn handle_connection(mut stream: TcpStream) {
 
     let get = b"GET / HTTP/1.1\r\n";
     // this establishes the GET request
-    let sleep =b"GET /sleep HTTP/1.1\r\n";
+    let sleep = b"GET /sleep HTTP/1.1\r\n";
 
     let (status_line, filename) = if buffer.starts_with(get) {
         ("HTTP/1.1 200 OK\r\n\r\n", "hello.html")
