@@ -1,0 +1,13 @@
+/Users/AlexF/doomline/Rust/projects/postgres/target/rls/debug/deps/quote-84cafc2ee5417707.rmeta: /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/Users/AlexF/doomline/Rust/projects/postgres/target/rls/debug/deps/libquote-84cafc2ee5417707.rlib: /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/Users/AlexF/doomline/Rust/projects/postgres/target/rls/debug/deps/quote-84cafc2ee5417707.d: /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs:

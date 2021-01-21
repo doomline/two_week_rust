@@ -1,0 +1,13 @@
+/Users/AlexF/doomline/Rust/projects/postgres/target/debug/deps/quote-ea19e697b3c7e04d.rmeta: /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/Users/AlexF/doomline/Rust/projects/postgres/target/debug/deps/libquote-ea19e697b3c7e04d.rlib: /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/Users/AlexF/doomline/Rust/projects/postgres/target/debug/deps/quote-ea19e697b3c7e04d.d: /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs:

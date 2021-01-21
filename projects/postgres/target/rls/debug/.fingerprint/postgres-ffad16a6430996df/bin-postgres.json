@@ -1,0 +1,1 @@
+{"rustc":15795754241200674257,"features":"[]","target":1125158899773843177,"profile":10943874135526276430,"path":1036222786711178230,"deps":[[14560811693706541807,"postgres",false,432146798425667827]],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/postgres-ffad16a6430996df/dep-bin-postgres"}}],"rustflags":[],"metadata":16879773836600885074}

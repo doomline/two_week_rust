@@ -1,0 +1,10 @@
+/Users/AlexF/doomline/Rust/projects/postgres/target/rls/debug/deps/futures_channel-78ba95aefcaaf432.rmeta: /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/lib.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/lock.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/mpsc/mod.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/mpsc/queue.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/mpsc/sink_impl.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/oneshot.rs
+
+/Users/AlexF/doomline/Rust/projects/postgres/target/rls/debug/deps/futures_channel-78ba95aefcaaf432.d: /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/lib.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/lock.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/mpsc/mod.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/mpsc/queue.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/mpsc/sink_impl.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/oneshot.rs
+
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/lib.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/lock.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/mpsc/mod.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/mpsc/queue.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/mpsc/sink_impl.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.12/src/oneshot.rs:

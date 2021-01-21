@@ -1,0 +1,11 @@
+/Users/AlexF/doomline/Rust/projects/postgres/target/rls/debug/deps/futures_core-81a55397060a371b.rmeta: /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/lib.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/future.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/stream.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/mod.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/poll.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/mod.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/atomic_waker.rs
+
+/Users/AlexF/doomline/Rust/projects/postgres/target/rls/debug/deps/futures_core-81a55397060a371b.d: /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/lib.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/future.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/stream.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/mod.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/poll.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/mod.rs /Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/atomic_waker.rs
+
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/lib.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/future.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/stream.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/mod.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/poll.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/mod.rs:
+/Users/AlexF/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/atomic_waker.rs:
